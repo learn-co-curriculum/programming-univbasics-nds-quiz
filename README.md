@@ -24,13 +24,13 @@ Which NDS does the following code represent?
 
 ```ruby
 { 
-  :label => "Water"
+  :label => "Water",
   :component => {
-    :label => "Hydrogen"
+    :label => "Hydrogen",
     :component => nil
   },
   :component => {
-    :label => "Oxygen"
+    :label => "Oxygen",
     :component => nil
   }
 }
