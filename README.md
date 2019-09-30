@@ -95,7 +95,7 @@ trios[0][5] = "John"
 trios[0] #=>  ???
 ```
 
-( ) ["Geddy", "Alex", "Neal", "John"], ( ) ["Geddy", "Alex", "Neal", nil, nil, "John"], (X) ["Geddy", "Alex", "Neal", nil, "John"], ( ) ["Geddy", "Alex", "Neal", "John", nil],
+( ) `["Geddy", "Alex", "Neal", "John"]`, ( ) `["Geddy", "Alex", "Neal", nil, nil, "John"]`, (X) `["Geddy", "Alex", "Neal", nil, "John"]`, ( ) `["Geddy", "Alex", "Neal", "John", nil]`,
 
 ?: True / False: It is not possible, in Ruby, to nest an Array of Arrays inside on
 another nested data structure
