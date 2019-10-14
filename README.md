@@ -109,7 +109,7 @@ trios = [
 ]
 ```
 
-What does the following code produce?
+?: What does the following code produce?
 
 ```ruby
 trios[0][5] = "John"
