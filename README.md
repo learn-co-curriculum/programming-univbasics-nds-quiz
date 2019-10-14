@@ -99,21 +99,17 @@ power_lifter_jones = {
 ( ) `Hash` of `Array`s
 (X) `Hash` of `Hash`es
 
-?: Given the following NDS:
+?: Given the following NDS, what does the following code produce?
 
 ```ruby
 trios = [
   ["Geddy", "Alex", "Neal"],
   ["Raekwon", "ODB", "The RZA"],
   ["The Micke", "Joltin' Joe", "Say Hey Kid"]
+  
+  trios[0][5] = "John"
+  trios[0] #=>  ???
 ]
-```
-
-?: What does the following code produce?
-
-```ruby
-trios[0][5] = "John"
-trios[0] #=>  ???
 ```
 
 ( ) `["Geddy", "Alex", "Neal", "John"]`
