@@ -85,13 +85,13 @@ uniform."
 
 ?: Given the following NDS:
 
-``ruby
+```ruby
 trios = [
   ["Geddy", "Alex", "Neal"],
   ["Raekwon", "ODB", "The RZA"],
   ["The Micke", "Joltin' Joe", "Say Hey Kid"]
 ]
-``
+```
 
 What does the following code produce?
 
