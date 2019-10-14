@@ -4,7 +4,7 @@
 
 ## Nested Data Structures Quiz
 
-Which NDS does the following code represent?
+?: Which NDS does the following code represent?
 
 ```ruby
 [ { :name => "James" }, { :name => "LeBron" }, { :name => "O'Shea" }]
@@ -72,7 +72,7 @@ two facts, a product-identifier and a price."
 
 ?: Which structure does the following real-world description suggest?
 
-"We want t model a decision structure. At every step, from the first decision,
+"We want to model a decision structure. At every step, from the first decision,
 there will be a positive choice and a negative choice. All choices are
 uniform."
 
@@ -97,7 +97,7 @@ trios[0] #=>  ???
 
 ( ) `["Geddy", "Alex", "Neal", "John"]`, ( ) `["Geddy", "Alex", "Neal", nil, nil, "John"]`, (X) `["Geddy", "Alex", "Neal", nil, "John"]`, ( ) `["Geddy", "Alex", "Neal", "John", nil]`,
 
-?: True / False: It is not possible, in Ruby, to nest an Array of Arrays inside on
+?: True / False: It is not possible, in Ruby, to nest an Array of Arrays inside of
 another nested data structure
 
 ( ) True
