@@ -20,7 +20,7 @@
 ?: Which NDS does the following code represent?
 
 ```ruby
-[ ['X', 'O', 'X'], ['O', 'X', 'O'], ['O', 'X', 'O'] ]
+[ [1, 2, 3], [4, 5, 6], [7, 8, 9] ]
 ```
 
 (X) `Array` of `Array`s
