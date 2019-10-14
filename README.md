@@ -1,8 +1,6 @@
 ???
 
-# Quiz: Nested Data Structures
-
-## Nested Data Structures Quiz
+# Nested Data Structures Quiz
 
 ?: Which NDS does the following code represent?
 
