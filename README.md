@@ -10,7 +10,10 @@
 [ { :name => "James" }, { :name => "LeBron" }, { :name => "O'Shea" }]
 ```
 
-( ) `Array` of `Array`s (X) `Array` of `Hash`es ( ) `Hash` of `Array`s ( ) `Hash` of `Hash`es
+( ) `Array` of `Array`s 
+(X) `Array` of `Hash`es 
+( ) `Hash` of `Array`s 
+( ) `Hash` of `Hash`es
 
 ?: Which NDS does the following code represent?
 
