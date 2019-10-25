@@ -108,7 +108,7 @@ trios = [
   ["The Micke", "Joltin' Joe", "Say Hey Kid"]
 ]
   trios[0][5] = "John"
-  trios[0] #=>  ???
+  trios[0] #=>  ?? Choose option below ??
 ```
 
 ( ) `["Geddy", "Alex", "Neal", "John"]`
