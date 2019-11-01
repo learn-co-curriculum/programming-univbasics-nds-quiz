@@ -112,8 +112,8 @@ trios = [
 ```
 
 ( ) `["Geddy", "Alex", "Neal", "John"]`
-( ) `["Geddy", "Alex", "Neal", nil, nil, "John"]`
-(X) `["Geddy", "Alex", "Neal", nil, "John"]`
+(X) `["Geddy", "Alex", "Neal", nil, nil, "John"]`
+( ) `["Geddy", "Alex", "Neal", nil, "John"]`
 ( ) `["Geddy", "Alex", "Neal", "John", nil]`
 
 ?: True / False: It is not possible, in Ruby, to nest an Array of Arrays inside of another nested data structure
